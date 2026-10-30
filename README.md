@@ -28,4 +28,4 @@ A responsive frontend clone of the **Blinkit** quick-commerce web application, b
 ```text
 ├── blinkit.html       # Main HTML markup structure
 ├── blinkitstyle.css   # External CSS stylesheet for layout and design
-└── assets/            # Directory containing images (banners, category icons, etc.)
+└── blinkit_clone            # Directory containing images (banners, category icons, etc.)
